@@ -36,4 +36,4 @@ A responsive, pixel-perfect clone of Telegram with light and dark modes, smooth 
 
 ## Deployment
 
-The project is deployed at: [https://telegram-clone-khaki.vercel.app/](https://telegram-clone-khaki.vercel.app/)
+The project is deployed at: [https://telegram-clone-zeeyeahs-projects.vercel.app/]
