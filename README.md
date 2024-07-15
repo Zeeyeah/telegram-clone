@@ -1,8 +1,39 @@
-# React + Vite
+# Telegram Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive, pixel-perfect clone of Telegram with light and dark modes, smooth animations, and transitions.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- React Router DOM
+- Axios
+
+## Features
+
+- Light and Dark Mode
+- Smooth Animations and Transitions
+
+## Installation
+
+1. Clone the repository:
+
+    ```sh
+    git clone https://github.com/your-username/telegram-clone.git
+    cd telegram-clone
+    ```
+
+2. Install the dependencies:
+
+    ```sh
+    npm install
+    ```
+
+3. Start the development server:
+
+    ```sh
+    npm run dev
+    ```
+
+## Deployment
+
+The project is deployed at: [https://telegram-clone-khaki.vercel.app/](https://telegram-clone-khaki.vercel.app/)
