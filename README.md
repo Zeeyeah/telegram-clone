@@ -12,6 +12,7 @@ A responsive, pixel-perfect clone of Telegram with light and dark modes, smooth 
 
 - Light and Dark Mode
 - Smooth Animations and Transitions
+- Automatic Pagination on scroll
 
 ## Installation
 
