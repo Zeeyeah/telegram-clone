@@ -6,7 +6,7 @@ import { useParams } from 'react-router-dom'
 
 const ChatList = () => {
     const { id } = useParams()
-    const [hamburgerOpen, setHamburgerOpen] = useState(true)
+    const [hamburgerOpen, setHamburgerOpen] = useState(false)
     const [darkMode, setDarkMode] = useState(false)
     const [chatsList, setChatsList] = useState([])
     const [page, setPage] = useState(1)
